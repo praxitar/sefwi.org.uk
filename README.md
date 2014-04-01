@@ -1,4 +1,4 @@
 sefwi.org.uk
 ============
 
-Public Issues-only repo
+Public issues-only repo
